@@ -1,9 +1,8 @@
-<a href="https://github.com/KAYOKG"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=VENI+VIDI+VICI&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/AdalbertoAo"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=i%20love%20conding&section=header&animation=fadeIn"/></a>
 
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Kayo+Galdino;I'm+22+years+old;I+am+from+Manhuaçu,+MG;I+study+information+systems+at+UFU;Be+Welcome!🎉)](https://github.com/KAYOKG)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=292088&width=435&lines=Hi%2C+I'm+Adalberto+Silvestre;I'm+a+student+of+Programing+;and+i+love+coding.;Welcome+my+github.🎉)](https://github.com/AdalbertoAo)
+ 
 </div>
 
 <div align="left">
