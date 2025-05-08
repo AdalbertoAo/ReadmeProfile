@@ -1,7 +1,7 @@
 <a href="https://github.com/AdalbertoAo"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=i%20love%20conding&section=header&animation=fadeIn"/></a>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=292088&width=435&lines=Hi%2C+I'm+Adalberto+Silvestre;I'm+a+student+of+Programing+;and+i+love+coding.;Welcome+my+github.🎉)](https://github.com/AdalbertoAo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=292088&width=435&lines=Hi%2C+I'm+Adalberto+Silvestre;I'm+a+student+of+Programing+;and+i+love+coding.;Welcome+my+github.)](https://git.io/typing-svg)
  
 </div>
 
